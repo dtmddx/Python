@@ -1,5 +1,5 @@
 import bs4
-import lxml #xml parser
+import lxml # xml parser
 from bs4 import BeautifulSoup as soup
 from urllib.request import urlopen
 
